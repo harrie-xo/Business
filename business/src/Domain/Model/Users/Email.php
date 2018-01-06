@@ -35,5 +35,5 @@ class Email
     public function __toString()
     {
         return $this->value;
-    }
+	}
 }
